@@ -1,0 +1,58 @@
+body{
+    background-color: #A52A2A;
+    color: white;
+}
+
+div.menu{
+    position: absolute;
+    left: 100px;
+    top: 50px;
+    font-size: 30px;
+    color: white;
+}
+
+a:link{
+    font-size: 30px;
+    color: white;
+    border-left: 1px;
+    text-decoration: none;
+}
+
+a:visited{
+    font-size: 30px;
+    color: white;
+    border-left: 10px;
+    text-decoration: none;
+}
+
+a:hover{
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+div.content{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+thead{
+    color: black;
+    font-size: 35px;
+    background-color: #FFB6C1;
+}
+
+tr.impar{
+    background-color: #FFFFFF;
+}
+
+tr.par{
+    background-color: #FFFFFF;
+}
+
+td{
+    font-size: 25px;
+    color: black;
+    width: 25%;
+}
